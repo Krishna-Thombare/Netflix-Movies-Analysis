@@ -33,6 +33,13 @@ The dataset contains movie information along with rating, popularity, audience v
 
 ---
 
+## 🛠️ Tools Used
+
+- **Microsoft Excel** — Data preparation
+- **Tableau** — Data analysis and visualization
+
+---
+
 ## 🧹 Data Preparation
 
 The data was prepared using **Excel and Tableau**.
@@ -96,13 +103,6 @@ To make the Top Rated Movies analysis more meaningful, the project uses two cond
 - **Vote Count ≥ 1,000**
 
 This avoids selecting movies only because they have a high rating with very few votes and provides a better indication of audience engagement.
-
----
-
-## 🛠️ Tools Used
-
-- **Microsoft Excel** — Data preparation
-- **Tableau** — Data analysis and visualization
 
 ---
 
