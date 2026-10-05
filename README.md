@@ -84,6 +84,16 @@ It includes: (3 Charts)
 
 ---
 
+## 🖼️ Screenshots
+
+### Dashboard 1
+![Dashboard-1](screenshots/dashboard_1.png)
+
+### Dashboard 2
+![Dashboard-2](screenshots/dashboard_2.png)
+
+---
+
 ## 🔎 Key Insights
 
 - **Drama** is the largest genre by number of movies.
